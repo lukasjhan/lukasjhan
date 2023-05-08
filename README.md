@@ -43,4 +43,4 @@ I'm looking to collaborate on open source projects.
 
 ---
 
-![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasjhan&show_icons=true&count_private=true&hide=stars,contribs)
+![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasjhan&show_icons=true&theme=dark&count_private=true&hide=stars,contribs)
