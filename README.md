@@ -2,10 +2,15 @@
   <img src="./gimpo.png" alt="">
 </p>
 
-## Info
+## Lukas.J.Han
 
-Hi, I’m @lukasjhan. Backends Engineer and Cloud Architect. I'm interested in building scalable and reliable distributed systems.
-I'm looking to collaborate on open source projects.
+### Hi, I’m @lukasjhan. Backends Engineer and Cloud Architect.
+
+⤷ I'm interested in building scalable and reliable distributed systems. I'm looking to collaborate on open source projects.
+
+⚐ Based in Palo Alto / United States
+
+ϟ Recently Contributing Open Wallet Foundation
 
 - DB
 
