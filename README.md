@@ -7,12 +7,27 @@
 ### Hi, I’m @lukasjhan. Backends Engineer and Cloud Architect.
 
 ⤷ I'm interested in building scalable and reliable distributed systems. I'm looking to collaborate on open source projects.
+I've developed and currently use my own custom middleware and tools for various technologies:
+
+Serverless / FFmpeg / Whisper / AWS / WebSocket / System software
 
 ⚐ Based in Palo Alto / United States
 
 ϟ Recently Contributing Open Wallet Foundation
 
 - https://github.com/openwallet-foundation-labs/sd-jwt-js
+- https://github.com/openwallet-foundation-labs/mdl-js
+
+with a particular focus on standards-related initiatives. I am contributing by watching with interest.
+
+- SD-JWT / SD-JWT VC
+- ISO 18013-5 / ISO 18013-7
+- PEX / OPENID4VC
+
+📫 Translation Works:
+
+- W3C DID Core 1.0: https://lukasjhan.github.io/did-core/
+- W3C Verifiable Credentials Data Model 1.1: https://lukasjhan.github.io/vc-data-model/
 
 ## Skills
 
@@ -29,6 +44,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Gleam](https://img.shields.io/badge/gleam-be81e3.svg?style=for-the-badge&logo=gleam&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
