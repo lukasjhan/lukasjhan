@@ -29,6 +29,13 @@ with a particular focus on standards-related initiatives. I am contributing by w
 - W3C DID Core 1.0: https://lukasjhan.github.io/did-core/
 - W3C Verifiable Credentials Data Model 1.1: https://lukasjhan.github.io/vc-data-model/
 
+Other Opensource Works:
+
+- Korean Offical Design System Components: https://github.com/KRDS-community/krds-react
+- Saas Authentication Kit
+- Backends Middlewares
+- System CLI tools
+
 ## Skills
 
 - DB
