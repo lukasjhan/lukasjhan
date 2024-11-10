@@ -15,7 +15,7 @@ Serverless / FFmpeg / Whisper / AWS / WebSocket / System software
 
 ϟ Recently Contributing Open Wallet Foundation
 
-- https://github.com/openwallet-foundation-labs/sd-jwt-js
+- https://github.com/openwallet-foundation/sd-jwt-js
 - https://github.com/openwallet-foundation-labs/mdl-js
 
 with a particular focus on standards-related initiatives. I am contributing by watching with interest.
