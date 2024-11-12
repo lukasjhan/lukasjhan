@@ -36,6 +36,11 @@ Other Opensource Works:
 - Backends Middlewares
 - System CLI tools
 
+Security Related Works:
+
+- [Patch rce and xss](https://github.com/ethan-james-miller/user-management-system/pull/1)
+- [Checking inputs when user delete server action in Nextjs](https://github.com/cutie-sookyung/nextjs-user/pull/1)
+
 ## Skills
 
 - DB
