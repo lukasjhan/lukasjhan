@@ -22,7 +22,7 @@ with a particular focus on standards-related initiatives. I am contributing by w
 
 - SD-JWT / SD-JWT VC
 - ISO 18013-5 / ISO 18013-7
-- PEX / OPENID4VC
+- DCQL / PEX / OPENID4VC
 
 📫 Translation Works:
 
