@@ -11,6 +11,8 @@ I've developed and currently use my own custom middleware and tools for various 
 
 Serverless / FFmpeg / Whisper / AWS / WebSocket / System software
 
+I served in the Republic of Korea Air Force and was honorably discharged as a Staff Sergeant.
+
 ⚐ Based in Palo Alto / United States
 
 ϟ Recently Contributing Open Wallet Foundation
