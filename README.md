@@ -8,7 +8,7 @@
 
 **Building digital identity infrastructure you can rely on — at scale, under regulation, without downtime.**
 
-📍 Luxembourg · 🇰🇷 Korea &nbsp;|&nbsp; 🏢 [Hopae](https://hopae.com) &nbsp;|&nbsp; 🌐 [Open Wallet Foundation](https://openwallet.foundation/)
+📍 Luxembourg · 🇰🇷 Korea &nbsp;|&nbsp; 🏢 [Hopae](https://hopae.com) &nbsp;|&nbsp; 🌐 [Open Wallet Foundation](https://openwallet.foundation/) &nbsp;|&nbsp; ✍️ [blog.lukasjhan.com](https://blog.lukasjhan.com)
 
 _Republic of Korea Air Force, honorably discharged as Staff Sergeant._
 
@@ -76,6 +76,22 @@ Working at the intersection of **EU regulation** and **technical implementation*
 
 - [DID Core 1.0](https://lukasjhan.github.io/did-core/)
 - [VC Data Model 1.1](https://lukasjhan.github.io/vc-data-model/)
+
+---
+
+## 🎤 Speaking & Writing
+
+**Blog** — [**blog.lukasjhan.com**](https://blog.lukasjhan.com) — monthly writing (EN) on digital identity, trust infrastructure, and engineering culture.
+
+**Events & Talks**
+
+| Event                                                                                                           | When     | Role                                                 |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
+| **[IIW](https://internetidentityworkshop.com/)** — Internet Identity Workshop                                   | Apr 2025 | **Presenter** — _SD-JWT VCLD Implementation_         |
+| **OpenWallet Forum** @ Davos                                                                                    | Jul 2025 | Participant — global digital identity collaboration  |
+| **[IATA Data & Tech PoC WDS 2026](https://www.iata.org/en/pressroom/2026-releases/2026-03-13-01/)**, @Singapore | Apr 2026 | Technical contributor — aviation identity innovation |
+
+_Reflections on each event are published on the blog above._
 
 ---
 
