@@ -25,7 +25,7 @@ _Republic of Korea Air Force, honorably discharged as Staff Sergeant._
 
 ---
 
-## 📦 Open Source Highlights
+## 📦 Featured Projects
 
 ### [SD-JWT JS](https://github.com/openwallet-foundation/sd-jwt-js) — Open Wallet Foundation
 
@@ -52,7 +52,16 @@ _Republic of Korea Air Force, honorably discharged as Staff Sergeant._
   - [eudi-lib-ios-openid4vp-swift #179](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vp-swift/pull/179)
   - [eudi-lib-ios-wallet-kit #313](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit/pull/313)
 
-### Other Open Source
+### [IATA Digital Identity PoC](https://github.com/iata-poc) — International Air Transport Association
+
+> Contributing engineer on the **official IATA Proof of Concept (Cycle 2)** — validating credential-based digital identity across global airline and airport infrastructure, representing **Hopae** as a listed technology partner.
+
+- **[Verifying Digital Identity in the Distribution Process](https://github.com/iata-poc/iata-dat-poc-c2-verifying-digital-identity-in-distribution-process)** — B2B agent verification across NDC distribution networks plus B2C traveler identity via digital wallets
+- **[Contactless Travel](https://github.com/iata-poc/iata-dat-poc-c2-di-contactless-travel)** — End-to-end contactless travel pilot using wallet-based credentials across airlines, airports, and wallet providers
+
+Partners include **Air Canada, British Airways, Qatar Airways, Japan Airlines, Air New Zealand, Hong Kong Int'l Airport**, with technology partners **Google Wallet, Amadeus, SITA, NEC, Infosys**. Standards applied: **W3C VC · SD-JWT VC · OpenID4VP · ISO 23220** — the same specifications I maintain and contribute to upstream.
+
+### Other Open Source Projects
 
 - [**KRDS React**](https://github.com/KRDS-community/krds-react) — Component library for the Korean Government Design System
 - [**winston-opensearch**](https://github.com/lukasjhan/winston-opensearch) — Winston logger transport for OpenSearch
