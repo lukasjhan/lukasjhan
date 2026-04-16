@@ -4,7 +4,7 @@
 
 ## Lukas.J.Han
 
-### Staff Infrastructure Engineer · Digital Identity Engineer · Backend Software Engineer
+### Staff Infrastructure Engineer · Digital Identity Engineer · Head of R&D
 
 **Building digital identity infrastructure you can rely on — at scale, under regulation, without downtime.**
 
