@@ -61,6 +61,26 @@ _Republic of Korea Air Force, honorably discharged as Staff Sergeant._
 
 Partners include **Air Canada, British Airways, Qatar Airways, Japan Airlines, Air New Zealand, Hong Kong Int'l Airport**, with technology partners **Google Wallet, Amadeus, SITA, NEC, Infosys**. Standards applied: **W3C VC · SD-JWT VC · OpenID4VP · ISO 23220** — the same specifications I maintain and contribute to upstream.
 
+### 🔬 [Anonymous Credentials from SD-JWT VC](https://github.com/lukasjhan/longfellow) - ZKP with SD-JWT VC
+ 
+> _Issuer-Unlinkable Nullifiers and Revocation in Transparent Zero-Knowledge_ · working paper, 2026
+
+Selective-disclosure credentials ship **without unlinkability** — the issuer's signature and salted hashes let colluding
+verifiers (and the issuer itself) correlate every presentation. This work brings unlinkability to the **unmodified** SD-JWT VC
+and ISO mdoc credentials I maintain upstream, using **transparent (no-trusted-setup) zero-knowledge** on top of Google's
+[longfellow-zk](https://github.com/google/longfellow-zk).
+
+- 🧩 The **first ZK circuits for the _unmodified_ IETF SD-JWT VC text format** (JSON/JWS/base64url) — no change to issuers or
+devices
+- 🪪  An **issuer-unlinkable blind nullifier** — a per-context tag that even the _issuer_ cannot trace, enabling
+one-vote-per-election / one-account-per-service without ever de-anonymizing the holder
+- 🔁 **Signed-range revocation** plus a shared, format-agnostic core that runs **unchanged across both SD-JWT VC and ISO 
+mdoc**
+- ⚡ Implemented & benchmarked end-to-end — **sub-2s proving, sub-second verification** on a desktop and a Snapdragon 8 Gen 2
+phone, with no trusted setup
+
+📄 [Read the working draft (PDF)](https://github.com/lukasjhan/longfellow/blob/main/paper/paper.pdf)
+
 ### Other Open Source Projects
 
 - [**KRDS React**](https://github.com/KRDS-community/krds-react) — Component library for the Korean Government Design System
