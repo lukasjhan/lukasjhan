@@ -83,7 +83,7 @@ phone, with no trusted setup
 
 ### Other Open Source Projects
 
-- [**KRDS React**](https://github.com/KRDS-community/krds-react) — Component library for the Korean Government Design System
+- [**KRDS React**](https://github.com/KRDS-community/krds-react) — Component library for the Korean Government Design System · 🏅 *Recognized by Korea's National Information Society Agency (NIA) — 2024 e-Government Standard Framework Contribution*
 - [**winston-opensearch**](https://github.com/lukasjhan/winston-opensearch) — Winston logger transport for OpenSearch
 
 ---
