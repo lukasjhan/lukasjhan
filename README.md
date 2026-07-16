@@ -81,6 +81,25 @@ phone, with no trusted setup
 
 📄 [Read the working draft (PDF)](https://github.com/lukasjhan/longfellow/blob/main/paper/paper.pdf)
 
+### Axle — EUDI Wallet SDK
+
+> A headless, from-scratch SDK for building **EU Digital Identity (eIDAS 2.0)** wallets —
+> two native implementations (**Kotlin & Swift**) sharing one API contract, with every
+> protocol layer (CBOR/COSE, SD-JWT VC, ISO mdoc, OpenID4VCI/VP, X.509 trust,
+> Token Status List) implemented in-house against the source specifications.
+
+- **Architect & lead engineer** — protocol core, platform adapters (Android
+  Keystore/StrongBox, iOS Secure Enclave), and reference wallet apps for both platforms
+- Ships with a complete reference ecosystem: PID Issuer (OpenID4VCI · HAIP),
+  Verifier (OpenID4VP · DC API), RP Registrar (ETSI TS 119 475 WRPAC/WRPRC),
+  JAdES-signed Trusted List (ETSI TS 119 602), and a Wallet Provider (WUA + key attestation)
+- 🧪 **Live sandbox**: [Issuer](https://pid-issuer.vercel.app/) ·
+  [Verifier](https://eudi-verifier.vercel.app/) ·
+  [iOS App](https://github.com/openwallet-foundation-labs/axle/tree/main/demo-ios) ·
+  [Android App](https://github.com/openwallet-foundation-labs/axle/tree/main/demo) ·
+  [Registrar](https://demo-registrar.vercel.app/) ·
+  [Trusted List](https://trusted-list.vercel.app/)
+
 ### Other Open Source Projects
 
 - [**KRDS React**](https://github.com/KRDS-community/krds-react) — Component library for the Korean Government Design System · 🏅 *Recognized by Korea's National Information Society Agency (NIA) — 2024 e-Government Standard Framework Contribution*
