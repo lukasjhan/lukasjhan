@@ -120,10 +120,17 @@ Working at the intersection of **EU regulation** and **technical implementation*
 | **eIDAS 2.0 / ARF**              | Regulatory research & implementation |
 | **ETSI TS 119 411-8, 119 475**   | QTSP compliance                      |
 
-📄 **W3C Translations (Korean):**
+📄 **W3C Verifiable Credentials — Korean Translations:**
 
-- [DID Core 1.0](https://lukasjhan.github.io/did-core/)
-- [VC Data Model 1.1](https://lukasjhan.github.io/vc-data-model/)
+- [Decentralized Identifiers (DIDs) v1.0](https://lukasjhan.github.io/did-core/)
+- [Verifiable Credentials Data Model 1.1](https://lukasjhan.github.io/vc-data-model/)
+- [Verifiable Credentials Data Model v2.0](https://lukasjhan.github.io/vc-data-model-2.0/)
+- [Controlled Identifiers v1.0](https://lukasjhan.github.io/cid/)
+- [Verifiable Credential Data Integrity 1.0](https://lukasjhan.github.io/vc-data-integrity/)
+- [Data Integrity EdDSA Cryptosuites v1.0](https://lukasjhan.github.io/vc-di-eddsa/)
+- [Data Integrity ECDSA Cryptosuites v1.0](https://lukasjhan.github.io/vc-di-ecdsa/)
+- [Securing Verifiable Credentials using JOSE and COSE](https://lukasjhan.github.io/vc-jose-cose/)
+- [Bitstring Status List v1.0](https://lukasjhan.github.io/vc-bitstring-status-list/)
 
 ---
 
