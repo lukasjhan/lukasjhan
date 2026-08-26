@@ -40,9 +40,11 @@ _Republic of Korea Air Force, honorably discharged as Staff Sergeant._
 - Deployed in **EUDI Wallet** ecosystem implementations
 - **6M+ total downloads** on npm
 
-### [MDL JS](https://github.com/openwallet-foundation-labs/mdl-js) — Open Wallet Foundation Labs
+### [mdoc](https://github.com/lukasjhan/mdoc)
 
-> TypeScript implementation of **ISO 18013-5 (mDoc)** — the mobile driver's license standard being adopted across the EU and US.
+> TypeScript implementation of **ISO 18013-5 (mDL) / ISO-18013-7** — the mobile driver's license standard being adopted across the EU and US. Also support **ISO-23220-2 (Photo ID)**
+> 
+> Continues the work started as [openwallet-foundation-labs/mdl-js](https://github.com/openwallet-foundation-labs/mdl-js) at OpenWallet Foundation Labs.
 
 ### [EUDI Wallet Reference Implementation](https://github.com/eu-digital-identity-wallet) — European Commission
 
